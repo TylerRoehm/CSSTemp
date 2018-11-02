@@ -1,0 +1,11 @@
+﻿body 
+{ text-align:center; height: 100%;background-color:#add8e6;overflow:hidden;width:100%; color: white;}
+
+.rectangle {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 350px;
+  background-color: #555;
+}
